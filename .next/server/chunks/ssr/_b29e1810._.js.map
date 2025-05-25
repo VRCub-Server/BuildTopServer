@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/user/studio/src/app/loading.tsx"],"sourcesContent":["import { Loader2 } from 'lucide-react';\n\nexport default function Loading() {\n  return (\n    <div className=\"flex justify-center items-center min-h-[calc(100vh-200px)]\">\n      <Loader2 className=\"h-16 w-16 animate-spin text-primary\" />\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC,iNAAA,CAAA,UAAO;YAAC,WAAU;;;;;;;;;;;AAGzB","debugId":null}}]
+}
